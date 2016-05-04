@@ -16,7 +16,8 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
-    <class path="..\..\..\SkySand-framework" />
+    <class path="..\..\SkySand-framework" />
+    <class path="..\..\minimalcomps" />
   </classpaths>
   <!-- Build options -->
   <build>
