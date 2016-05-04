@@ -17,7 +17,10 @@
   <classpaths>
     <class path="src" />
     <class path="..\..\SkySand-framework" />
+<<<<<<< HEAD
     <class path="..\..\minimalcomps" />
+=======
+>>>>>>> origin/master
   </classpaths>
   <!-- Build options -->
   <build>

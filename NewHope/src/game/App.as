@@ -1,10 +1,12 @@
 package game 
 {
+	import skysand.interfaces.IUpdatable;
+	import skysand.render.RenderObject;
 	/**
 	 * ...
 	 * @author CodeCoreGames
 	 */
-	public class App 
+	public class App extends RenderObject implements IUpdatable
 	{
 		
 		public function App() 
@@ -12,6 +14,10 @@ package game
 			
 		}
 		
+		
+		public function update(deltaTime:Number):void
+		{
+			
+		}
 	}
-
 }

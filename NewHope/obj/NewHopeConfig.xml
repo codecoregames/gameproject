@@ -32,13 +32,22 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
+<<<<<<< HEAD
       <path-element>C:\Users\Слава\Documents\GitHub\gameproject\NewHope\src</path-element>
       <path-element>C:\Users\Слава\Documents\GitHub\SkySand-framework</path-element>
+=======
+      <path-element>E:\FlashGames\gameproject\NewHope\src</path-element>
+      <path-element>E:\FlashGames\SkySand-framework</path-element>
+>>>>>>> origin/master
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
   </compiler>
   <file-specs>
+<<<<<<< HEAD
     <path-element>C:\Users\Слава\Documents\GitHub\gameproject\NewHope\src\Main.as</path-element>
+=======
+    <path-element>E:\FlashGames\gameproject\NewHope\src\Main.as</path-element>
+>>>>>>> origin/master
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>60</default-frame-rate>
